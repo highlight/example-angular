@@ -3437,10 +3437,10 @@ hdr-histogram-percentiles-obj@^3.0.0:
   resolved "https://registry.yarnpkg.com/hdr-histogram-percentiles-obj/-/hdr-histogram-percentiles-obj-3.0.0.tgz#9409f4de0c2dda78e61de2d9d78b1e9f3cba283c"
   integrity sha512-7kIufnBqdsBGcSZLPJwqHT3yhk1QTsSlFsVD3kx5ixH/AlgBs9yM1q6DPhXZ8f8gtdqgh7N7/5btRLpQsS2gHw==
 
-highlight.run@4.2.5:
-  version "4.2.5"
-  resolved "https://registry.yarnpkg.com/highlight.run/-/highlight.run-4.2.5.tgz#251efc61afc8c8cc5a41a51a41cf4cc56dcc40bc"
-  integrity sha512-JOSqt2lG0cLe4G9M5tqajkiW/iIYMYAjDDQkU1TRLjFdsoBaPh2Z6mTVeHl0e940qhrC64kCxJel6RgwQcdbew==
+highlight.run@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/highlight.run/-/highlight.run-6.0.0.tgz#bdb127cea119a7678e19ee7cd009cd46f02edf29"
+  integrity sha512-DVrYRJ9pvPBjcpNiKLaOtM3QN8Nm2dDhhJjRbJZU+WP4i8f50gGbYWHz7pqNAtqotyr0chMCPZMeOFgKXDyc8A==
 
 hosted-git-info@^4.0.1:
   version "4.1.0"
